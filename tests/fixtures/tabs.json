@@ -1,0 +1,92 @@
+{
+ "data": {
+  "type": "home_tabs",
+  "id": null,
+  "attributes": [
+   {
+    "text": "برای شما",
+    "type": "home"
+   },
+   {
+    "text": "اقتصاد شخصی",
+    "type": "trend"
+   },
+   {
+    "text": "بچه ها و خانواده",
+    "type": "trend"
+   },
+   {
+    "text": "سرگرمی و گیمینگ",
+    "type": "trend"
+   },
+   {
+    "text": "خوراکی و نوشیدنی",
+    "type": "trend"
+   },
+   {
+    "text": "اخبار فوری",
+    "type": "trend"
+   },
+   {
+    "text": "زندگی و سبک زندگی",
+    "type": "trend"
+   },
+   {
+    "text": "ماشین و وسایل نقلیه",
+    "type": "trend"
+   },
+   {
+    "text": "آهنگ و موسیقی",
+    "type": "trend"
+   },
+   {
+    "text": "انیمیشن و کارتون",
+    "type": "trend"
+   },
+   {
+    "text": "ویدئو گیم",
+    "type": "trend"
+   },
+   {
+    "text": "سرگرمی و کمدی",
+    "type": "trend"
+   },
+   {
+    "text": "سگ و حیوانات",
+    "type": "trend"
+   },
+   {
+    "text": "رفاه اجتماعی",
+    "type": "trend"
+   },
+   {
+    "text": "فناوری و هنر",
+    "type": "trend"
+   },
+   {
+    "text": "کسب‌وکار",
+    "type": "trend"
+   },
+   {
+    "text": "سلامت و بهبود",
+    "type": "trend"
+   },
+   {
+    "text": "تحصیل و یادگیری",
+    "type": "trend"
+   },
+   {
+    "text": "سریال و فیلم",
+    "type": "trend"
+   },
+   {
+    "text": "سفر و ماجراجویی",
+    "type": "trend"
+   },
+   {
+    "text": "لایف استایل",
+    "type": "trend"
+   }
+  ]
+ }
+}

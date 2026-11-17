@@ -1,0 +1,103 @@
+{
+ "data": {
+  "id": 66764381,
+  "title": "تریلر سریال چالش های بامزه آشپزی BaRaDa",
+  "description": "سریال چالش های بامزه آشپزی محصول آمریکا در سال 2022 است\nتماشای سریال چالش های بامزه آشپزی با زیرنویس اختصاصی از طریق لینک زیر:\nr.filimo.com/BaRaDa",
+  "uid": "jjbwme6",
+  "visit_cnt": "1,298,492",
+  "visit_cnt_non_formatted": 1298492,
+  "like_cnt_non_formatted": 31,
+  "big_poster": "https://static.cdn.asset.aparat.com/avt/66764381-9706-l__5434.jpg?width=900&quality=90&secret=ozGeneeX60QhlJXUB9Rfgw",
+  "medium_poster": "https://static.cdn.asset.aparat.com/avt/66764381-9706-l__5434.jpg?width=700&quality=90&secret=_9VFJrYva9uy9dnNWEWuKQ",
+  "small_poster": "https://static.cdn.asset.aparat.com/avt/66764381-9706-l__5434.jpg?width=300&quality=90&secret=MpeZWpL7_ZOBZxPmVhPVqw",
+  "duration": "120",
+  "meta_duration": "PT2M",
+  "date_exact": "03 آبان 1404 17:43",
+  "sdate": "1 سال پیش",
+  "sdate_timediff": 33426398,
+  "sdate_real": "2025-10-25 17:43:41",
+  "deleted": "no",
+  "mdate": "2025-10-25T17:43:41+03:30",
+  "can_download": true,
+  "tags": [
+   "سریال BaRaDa",
+   "BaRaDa",
+   "سریال چالش های بامزه آشپزی"
+  ],
+  "tags_str": "سریال BaRaDa,BaRaDa,سریال چالش های بامزه آشپزی",
+  "tags_fa": [
+   "serial chalesh - bamazeh ashpazi"
+  ],
+  "frame_src": "https://www.aparat.com/video/video/embed/videohash/jjbwme6/vt/frame",
+  "category": {
+   "name": "فیلم، سریال و مستند",
+   "name_en": "film",
+   "id": "5"
+  },
+  "360d": "no",
+  "process": "done",
+  "comment_enable": "approve",
+  "playeradvertcornel": "",
+  "autoplay": true,
+  "official": "yes",
+  "extra_data": null,
+  "content_type": "video",
+  "file_hash": "0ac7811b4c980b77635e7447edc625d9",
+  "isCompany": false,
+  "isAbroad": true,
+  "kids_friendly": "yes",
+  "userOptMessage": null,
+  "userOptMessageCode": null,
+  "owner_username": "filimo",
+  "bandwidth_text": "",
+  "max_width": "1920",
+  "max_height": "1080",
+  "is_reportable": false,
+  "has_iframe_ad": false,
+  "show_logo_watermark": true,
+  "meta_description": "سریال چالش های بامزه آشپزی محصول آمریکا در سال 2022 است\nتماشای سریال چالش های بامزه آشپزی با زیرنویس اختصاصی از طریق لینک زیر:\nr.filimo.com/BaRaDa",
+  "meta_title": "تریلر سریال چالش های بامزه آشپزی BaRaDa",
+  "playerType": "romeo",
+  "playListAllLinkStatus": "login",
+  "video_cnt": "23336",
+  "comment_cnt": "0",
+  "comment_cnt_non_formatted": "0",
+  "badge": "normal",
+  "is_full_processed": true,
+  "Channel": {
+   "data": {
+    "type": "channel",
+    "id": "620960",
+    "username": "filimo",
+    "brand_priority": "88888",
+    "caption": null,
+    "avatar": "https://static.cdn.asset.aparat.com/profile-photo/620960-815433-m.jpg",
+    "name": "فیلیمو",
+    "displayName": "فیلیمو",
+    "follower_cnt": "153.8 هزار",
+    "priority": "brand",
+    "priority_type": "brand",
+    "link": "/filimo",
+    "pic": "yes",
+    "income_type": null,
+    "sdate": null,
+    "message_cnt": null
+   }
+  }
+ },
+ "meta": {
+  "show_kids_friendly": null,
+  "isOperator": null,
+  "time": "2026-11-16 14:50:19",
+  "country": "TR",
+  "country_long": "Turkiye",
+  "required_login_config": {
+   "home": true,
+   "like": true,
+   "playlist": true,
+   "watch_more_videos_player_side": false
+  },
+  "banners_collection": null,
+  "enable_video_comment": true
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "data": {
+  "id": "2350286",
+  "afcn": "",
+  "provider": "0",
+  "username": "macharta",
+  "name": "ماچارتا",
+  "pic_s": "https://static.cdn.asset.aparat.com/profile-photo/2350286-324098-s.jpg",
+  "pic_m": "https://static.cdn.asset.aparat.com/profile-photo/2350286-324098-m.jpg",
+  "pic_b": "https://static.cdn.asset.aparat.com/profile-photo/2350286-324098-m.jpg",
+  "follower_cnt": "257.5 هزار",
+  "follower_cnt_num": 257474,
+  "follow_cnt": "24",
+  "official": null,
+  "url": "",
+  "video_cnt": "584",
+  "cover_src": "https://static.cdn.asset.aparat.com/profile-cover/793802-4930.jpg",
+  "video_visit": "159.8 میلیون",
+  "priority": "brand",
+  "brand_priority": "88888",
+  "description": "اینجا کانال خانواده شاد و پرانرژی ماچارتا ست.",
+  "start_date": "2017-06-09",
+  "start_date_jalali": "96/03/19",
+  "show_kids_friendly": null,
+  "banned": "no",
+  "follow": {
+   "data": {
+    "type": "Follow",
+    "id": 2350286,
+    "link": "https://www.aparat.com/api/fa/v1/login?afterlogin=follow&userid=2350286",
+    "link_toggle_push_follow": null,
+    "push_follow_status": null,
+    "status": "login",
+    "userid": 2350286,
+    "follower_cnt": "0 "
+   }
+  }
+ }
+}

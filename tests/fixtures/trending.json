@@ -1,0 +1,182 @@
+{
+ "data": [
+  {
+   "type": "Row",
+   "id": 1,
+   "attributes": {
+    "id": 1,
+    "title": {
+     "text": "",
+     "caption": null
+    },
+    "output_type": "video",
+    "theme": "",
+    "more_type": "infinity",
+    "line_count": 0,
+    "total": 40,
+    "button": null,
+    "dataSource_type": "dynamicVideoTrendByData",
+    "dataSource_key": "",
+    "rand_data": false,
+    "limit": 40,
+    "ads": false,
+    "caption": null
+   },
+   "relationships": {
+    "video": {
+     "data": [
+      {
+       "type": "Video",
+       "id": "73647328"
+      },
+      {
+       "type": "Video",
+       "id": "72594655"
+      },
+      {
+       "type": "Video",
+       "id": "73496227"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "included": [
+  {
+   "type": "Video",
+   "id": "73647328",
+   "attributes": {
+    "id": "73647328",
+    "title": "سگهای نگهبان دوبله فارسی ، کارتون سگهای نگهبان جدید، انیمیشن پاترول",
+    "description": "خلاصه داستان\nPAW Patrol: The Mighty Movie یک انیمیشن هیجان‌انگیز و ماجرایی است که در سال 2023 منتشر شده است. انیمیشن PAW Patrol: The Mighty Movie سگ های نگهبان با ژانرهای اکشن، علمی تخیلی، ماجرایی، کمدی و فانتزی در دسته‌بندی جذابی قرار دارد. خلاصه داستان سگ های نگهبان در انیمیشن &ldquo;سگ های نگهبان: فیلم بزرگ&rdquo;، داستان به سقوط یک شهاب سنگ جادویی در شهر ماجراجویی آغاز می‌شود.\n این شهاب سنگ جادویی قدرت‌های\nدرباره انیمیشن سگ های نگهبان\nانیمیشن &ldquo;سگ های نگهبان: فیلم بزرگ&rdquo;، ب",
+    "username": "Ems_2023",
+    "userid": "6797786",
+    "tags": [
+     ""
+    ],
+    "uid": "giel576",
+    "isHidden": false,
+    "visit_cnt": "16.8 هزار",
+    "visit_cnt_int": "16766",
+    "process": "done",
+    "sender_name": "قصه های کودکانه - داستان فارسی",
+    "big_poster": "https://static.cdn.asset.aparat.com/avt/73647328-2957-l__3143.jpg?width=900&quality=90&secret=lVKFp6xbb7CsglhpOdiz6w",
+    "small_poster": "https://static.cdn.asset.aparat.com/avt/73647328-2957-l__3143.jpg?width=300&quality=90&secret=dxl6nbG3ZUwTj3MLuP4now",
+    "medium_poster": "https://static.cdn.asset.aparat.com/avt/73647328-2957-l__3143.jpg?width=700&quality=90&secret=5GVdRlv_VpC1bXysGnnoig",
+    "profilePhoto": "https://static.cdn.asset.aparat.com/profile-photo/6797786-913730-m.jpg",
+    "duration": "896",
+    "date_exact": "16 مهر 1405",
+    "sdate": "1 ماه پیش",
+    "sdate_rss": "2026-10-08 15:46:41",
+    "sdate_timediff": 3366225,
+    "frame": "https://www.aparat.com/video/video/embed/videohash/giel576/vt/frame",
+    "official": "no",
+    "autoplay": true,
+    "360d": null,
+    "brand_priority": "0",
+    "like_cnt": "165",
+    "videovisit": null,
+    "hasPreview": false,
+    "meta": null,
+    "catId": "18",
+    "hd": "no",
+    "sensitive": false,
+    "content_type": null,
+    "isCompany": false,
+    "isAbroad": true,
+    "recomType": "lbt"
+   }
+  },
+  {
+   "type": "Video",
+   "id": "72594655",
+   "attributes": {
+    "id": "72594655",
+    "title": "کارتون سگهای نگهبان طولانی، انیمیشن سگهای نگهبان جدید ، دانلود سگهای نگهبان دوبله فارسی",
+    "description": "",
+    "username": "Film_kids_TV",
+    "userid": "5578551",
+    "tags": [
+     ""
+    ],
+    "uid": "sarukgm",
+    "isHidden": false,
+    "visit_cnt": "8.8 هزار",
+    "visit_cnt_int": "8793",
+    "process": "done",
+    "sender_name": "ترانه کودکانه - کارتون کودکانه - انیمیشن ✅",
+    "big_poster": "https://static.cdn.asset.aparat.com/avt/72594655-5743-l__9311.jpg?width=900&quality=90&secret=OvUaqrh4rUJNf26iAcuajA",
+    "small_poster": "https://static.cdn.asset.aparat.com/avt/72594655-5743-l__9311.jpg?width=300&quality=90&secret=vZYcVQQX5xDVEh9SCrpJww",
+    "medium_poster": "https://static.cdn.asset.aparat.com/avt/72594655-5743-l__9311.jpg?width=700&quality=90&secret=aV4gGYbG_fMvddLdP_igKg",
+    "profilePhoto": "https://static.cdn.asset.aparat.com/profile-photo/5578551-629565-m.jpg",
+    "duration": "309",
+    "date_exact": "17 مرداد 1405",
+    "sdate": "3 ماه پیش",
+    "sdate_rss": "2026-08-08 15:11:11",
+    "sdate_timediff": 8638755,
+    "frame": "https://www.aparat.com/video/video/embed/videohash/sarukgm/vt/frame",
+    "official": "no",
+    "autoplay": true,
+    "360d": null,
+    "brand_priority": "0",
+    "like_cnt": "98",
+    "videovisit": null,
+    "hasPreview": false,
+    "meta": null,
+    "catId": "18",
+    "hd": "no",
+    "sensitive": false,
+    "content_type": null,
+    "isCompany": false,
+    "isAbroad": true,
+    "recomType": "lbt"
+   }
+  },
+  {
+   "type": "Video",
+   "id": "73496227",
+   "attributes": {
+    "id": "73496227",
+    "title": "انیمیشن سگهای نگهبان دوبله فارسیکارتون سگ های نگهبان جدیدسگ نگهبان طولانی",
+    "description": "#‌سگهای_نگهبان\n#‌انیمیشن_سگهای_نگهبان\n#‌کارتون_سگهای_نگهبان\n#‌سگهای_نگهبان_جدید\n#‌برنامه_کودک_سگهای_نگهبان\n#‌سگ_های_نگهبان\n#‌کارتون_سگ_های_نگهبان,\nانیمیشن سگ های نگهبان,\nسگ های نگهبان جدید,\nبرنامه کودک سگ های نگهبان,\nسگ نگهبان,\nکارتون سگ نگهبان,\nانیمیشن سگ نگهبان,",
+    "username": "gandom_tv",
+    "userid": "8325344",
+    "tags": [
+     ""
+    ],
+    "uid": "aub37w3",
+    "isHidden": false,
+    "visit_cnt": "2 هزار",
+    "visit_cnt_int": "1980",
+    "process": "done",
+    "sender_name": "⭐گندم تی وی⭐",
+    "big_poster": "https://static.cdn.asset.aparat.com/avt/73496227-5155-l__5916.jpg?width=900&quality=90&secret=o8X-yjH52mHrusa70i7MUw",
+    "small_poster": "https://static.cdn.asset.aparat.com/avt/73496227-5155-l__5916.jpg?width=300&quality=90&secret=vG7XHcu6JFo2nEXqTvFbKw",
+    "medium_poster": "https://static.cdn.asset.aparat.com/avt/73496227-5155-l__5916.jpg?width=700&quality=90&secret=4FSh0rJgXR3ldxTAu6ZAwQ",
+    "profilePhoto": "https://static.cdn.asset.aparat.com/profile-photo/8325344-514183-m.jpg",
+    "duration": "666",
+    "date_exact": "06 مهر 1405",
+    "sdate": "1 ماه پیش",
+    "sdate_rss": "2026-09-28 13:12:17",
+    "sdate_timediff": 4239489,
+    "frame": "https://www.aparat.com/video/video/embed/videohash/aub37w3/vt/frame",
+    "official": "no",
+    "autoplay": true,
+    "360d": null,
+    "brand_priority": "0",
+    "like_cnt": "28",
+    "videovisit": null,
+    "hasPreview": false,
+    "meta": null,
+    "catId": "25",
+    "hd": "no",
+    "sensitive": false,
+    "content_type": null,
+    "isCompany": false,
+    "isAbroad": true,
+    "recomType": "lbt"
+   }
+  }
+ ]
+}
