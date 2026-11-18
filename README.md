@@ -82,10 +82,6 @@ Real answer (17 Nov 2026): `apr_channel_videos(channel="macharta", sort="top")` 
 - Stream links, downloads, live streams and anything behind a login (history, subscriptions, uploads) are not covered.
 - Aparat answers both Iranian and foreign networks in testing; if your network is blocked, set `APARAT_MCP_PROXY`. The server ignores system proxy variables on purpose.
 
-## How it works
-
-Aparat has no public API documentation. The endpoints were mapped by watching aparat.com in Chrome, and every tool was then checked in Chrome against the real rendered pages (search, video, comments, channel, channel videos, categories, trending, related) on 16 Nov 2026. The server calls those same public endpoints through a Chrome-impersonating HTTP client, with a short cache and at most two requests at a time.
-
 ## فارسی
 
 <div dir="rtl">
