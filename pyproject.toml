@@ -1,6 +1,6 @@
 [project]
 name = "aparat-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for Aparat (آپارات, aparat.com), the Iranian video platform: search, videos, channels, trending, comments."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
